@@ -9,8 +9,8 @@ relative_permalinks: true
 # Setup
 title:            Talking Elastic
 tagline:          'Talking Elasticsearch'
-description:      'A blog that contains Elasticsearch tutorials, training and articles.'
-url:              http://elasticsearchtraining.github.io
+description:      'A blog that contains tutorials, training and articles on Elasticsearch.'
+url:              /
 baseurl:          /
 
 author:
