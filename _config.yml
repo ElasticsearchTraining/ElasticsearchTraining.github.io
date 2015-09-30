@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Talking Elastic
-tagline:          'Talking Elasticsearch'
+tagline:          ''
 description:      'A blog that contains articles, ideas and applications around Elasticsearch.'
 url:              /
 baseurl:          /
