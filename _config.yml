@@ -16,6 +16,7 @@ baseurl:          /
 author:
   name:           'Rajan Manickavasagam'
   url:            https://github.com/rajanm
+  email:		  mailto:rajan.manickavasagam@gmail.com?Subject=TalkingElastic
 
 paginate:         5
 
