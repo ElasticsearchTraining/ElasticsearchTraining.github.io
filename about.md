@@ -3,6 +3,18 @@ layout: page
 title: About
 ---
 
-This blog is created as a supplementary to the [Elasticsearch Training](https://github.com/ElasticsearchTraining) project on Github. It is built using the Jekyll [Hyde](http://hyde.getpoole.com) theme.
+The objective of [Talking Elastic](/) is to:
 
-Thanks for reading!
+* express my thoughts and use cases on Elasticsearch
+* encourage like minded indivduals and/or organizations to air views and ideas on Elasticsearch
+* act as a supplement to [Elasticsearch Training](https://github.com/elasticsearchtraining)
+* explore technologies and integrations around Elasticsearch
+
+In keeping with the simple theme, this blog does not and will not:
+
+* track users who visit this site
+* embed any advertisements
+
+This blog is built using the Jekyll [Hyde](http://hyde.getpoole.com) theme (credit to [Mark Otto](https://twitter.com/mdo)). 
+
+Thanks [Rajan](https://github.com/rajanm)
