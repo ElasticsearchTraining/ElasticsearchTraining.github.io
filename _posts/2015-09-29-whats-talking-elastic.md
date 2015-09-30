@@ -21,6 +21,6 @@ The motivation for creating Talking Elastic is to:
 
 If you are interested, please feel free to contribute to plugins, tutorials, code samples, gists to [Elasticsearch Training](https://github.com/elasticsearchtraining) or articles on [Talking Elastic](/).
 
-Let's start talking!
+Let's keep talking!
 
 By [Rajan](https://github.com/rajanm)

@@ -17,4 +17,6 @@ In keeping with the simple theme, this blog does not and will not:
 
 This blog is built using the Jekyll [Hyde](http://hyde.getpoole.com) theme (credit to [Mark Otto](https://twitter.com/mdo)). 
 
+Let's keep talking!
+
 Thanks [Rajan](https://github.com/rajanm)
